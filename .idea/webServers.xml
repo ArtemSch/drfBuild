@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ff8421a6-77af-4aaf-a192-d1ca1cd339ec" name="art">
+        <fileTransfer rootFolder="/home/art/projects/drfBuilding" accessType="SFTP" host="192.168.56.101" port="22" sshConfigId="bee29609-6e14-4d19-b174-ff5a2b5b0533" sshConfig="art@192.168.56.101:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
